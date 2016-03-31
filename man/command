@@ -1,0 +1,6 @@
+docker images 显示本地镜像
+docker run -it 容器ID:tag　command 运行一个容器，并执行command命令
+docker ps -a 显示所有正在运行的镜像
+docker stop containerID 停止一个容器
+docker save -o 保存镜像的名称.tar 容器ID:tag
+

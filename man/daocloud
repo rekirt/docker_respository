@@ -1,0 +1,6 @@
+#更改docker的资源地址
+curl -sSL https://get.daocloud.io/docker | sh
+
+
+
+
